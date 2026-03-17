@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "changelog": "🍷 Wine Studies Pro v1.0.0 - Lanzamiento oficial\n\n🤖 IA integrada (Gemini): corrección automática y Predice el vino\n🃏 Flashcards con repetición espaciada + Modo Duelo\n📚 Fichas técnicas completas de todas las regiones\n📖 Glosario inteligente con definiciones\n💰 Modo demo + versión completa mediante key",
-  "url": "https://github.com/DaoeZ/WSPro/releases/download/v1.0.0/WineStudiesPro.apk"
+  "version": "1.0.1",
+  "changelog": "🍷 v1.0.1\n\n🛡️ Licencia persistente: ya no se pierde al desinstalar\n🔧 Permisos mejorados para Android 11+\n⚙️ Optimización HWID y versionado automático",
+  "url": "https://github.com/DaoeZ/WSPro/releases/download/v1.0.1/WineStudiesPro.apk"
 }
