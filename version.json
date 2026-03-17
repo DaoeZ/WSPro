@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "changelog": "🛡️ Licencia Persistente: Respaldo externo seguro. Ya no se pierde al desinstalar.\n\n🐛 Fix Android 11+: Permisos de almacenamiento corregidos y flujo manual añadido.\n\n⚙️ Interno: Versionado automático y estabilidad del HWID mejorada.",
-  "url": "https://github.com/DaoeZ/WSPro/releases/download/v1.0.1/WineStudiesPro.apk"
+  "version": "1.0.2",
+  "changelog": "🛡️ Licencia Persistente: Respaldo externo seguro. Ya no se pierde al desinstalar.\n\n🐛 Fix Navegación: Corregido el botón atrás en fichas de estudio (flujo natural restaurado).\n\n⚙️ Permisos: Mejora en la gestión de permisos para Android 11+.",
+  "url": "https://github.com/DaoeZ/WSPro/releases/download/v1.0.2/WineStudiesPro.apk"
 }
